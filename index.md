@@ -1,33 +1,36 @@
 # Privacy Policy - Tilt Board
 
-Last updated: June 2026
+**Last updated: June 26, 2026**
 
-## Introduction
-Tilt Board ("we", "our", or "us") is committed to protecting your privacy. 
-This Privacy Policy explains how we handle information when you use our 
-mobile game Tilt Board.
+## 1. Introduction
+Yesid Colmenares ("I", "me", or "my") operates the Tilt Board mobile game. 
+This Privacy Policy explains how I handle your information when you use Tilt Board.
 
-## Information We Collect
-We do not collect any personal information directly. However, our app uses 
-Google AdMob to display advertisements. AdMob may collect and use your 
-device's advertising ID to show relevant ads.
+## 2. Information Collection
+I do not directly collect personal information. However, Tilt Board uses 
+Google AdMob, which may collect:
+- Device advertising ID (IDFA/AAID)
+- IP address
+- Device information (model, OS version)
+- Usage data for ad personalization
 
-## Advertising
-We use Google AdMob to serve ads in our app. AdMob may use cookies and 
-similar technologies to collect information about your device and usage 
-patterns to provide personalized advertising.
+## 3. Use of Information
+Information collected by AdMob is used solely to display relevant 
+advertisements within the game.
 
-For more information about how Google uses data, please visit:
-https://policies.google.com/privacy
+## 4. Third Party Services
+Tilt Board uses Google AdMob for advertising.
+Google's Privacy Policy: https://policies.google.com/privacy
+To opt out of personalized ads: https://adssettings.google.com
 
-## Children's Privacy
-Tilt Board is not directed to children under the age of 13. We do not 
-knowingly collect personal information from children under 13.
+## 5. Children's Privacy
+Tilt Board is not directed to children under 13. I do not knowingly 
+collect information from children under 13.
 
-## Changes to This Policy
-We may update this Privacy Policy from time to time. We will notify you 
-of any changes by posting the new Privacy Policy on this page.
+## 6. Changes to This Policy
+I may update this Privacy Policy occasionally. Changes will be posted 
+on this page with an updated date.
 
-## Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
-tec0yesid@gmail.com
+## 7. Contact
+For questions about this Privacy Policy:
+Email: tec0yesid@gmail.com
